@@ -1,5 +1,5 @@
 # TestFda h1
-#Bold e italic
+# Bold e italic
 
 Lorem ipsum dolor sit amet, *in duo quodsi ocurreret*, quo ad iuvaret mentitum. Sed inani probatus corrumpit et, ex alia facete est. Usu ei dolore dolorem accumsan, ei qui rebum eirmod scripserit. Alia veri intellegam est ad. __*Pertinacia eloquentiam usu eu.*__ Partiendo conclusionemque mei ex, eam no populo everti vocibus. Id his nibh eirmod delicata.
 Est cu probatus mnesarchum, sit nullam neglegentur ex. _Nisl clita at usu._ At mel vivendum facilisis appellantur. Te graecis consectetuer mea, eu mea ceteros fabellas. Agam liber efficiantur quo ei, eu nam possit iriure.
@@ -7,7 +7,7 @@ Est cu probatus mnesarchum, sit nullam neglegentur ex. _Nisl clita at usu._ At m
 __*Un asterisco o underscore rendono il testo corsivo due asterischi o underscore Bold*__
 
 ## TestFda h2
-##lista numerata e puntata
+## lista numerata e puntata
 
 * elemento 1
 * elemento 2 
